@@ -45,7 +45,7 @@ def game_hash
         :blocks => 8, 
         :slam_dunks => 5  
         },
-        {:player_name => "Brook Lopez",
+        {:player_name => "Jason Terry",
         :number => 11, 
         :shoe => 17, 
         :points => 17, 
