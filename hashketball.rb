@@ -21,7 +21,7 @@ def game_hash
       :team_name => "",
       :colors => [],
       :players => {
-        :player_name => "", 
+        "" => {
         :number => , 
         :shoe => , 
         :points => , 
